@@ -11,9 +11,6 @@
         <asp:Button ID="btnBuscarP" runat="server" OnClick="btnBuscarP_Click" Text="Buscar Peliculas" />
     </p>
     <p>
-        <asp:TextBox ID="txtVer" runat="server"></asp:TextBox>
-    </p>
-    <p>
         <asp:GridView ID="GridView1" runat="server">
         </asp:GridView>
     </p>

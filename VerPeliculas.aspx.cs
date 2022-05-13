@@ -37,12 +37,15 @@ namespace ExamenParcialNo2
                 {
                     Pelicula ver = new Pelicula();
                     ver.TituloP = AlEditado.TituloP;
+                    ver.Año = AlEditado.Año;
+                    ver.Genero = AlEditado.Genero;
+                    ver.Estudio = AlEditado.Estudio;
 
                     peliIngreV.Add(ver);
 
                     GridView1.DataSource = peliIngreV;
                     GridView1.DataBind();
-                    txtVer.Text = ver.TituloP;
+
                     peliIngreV.Clear();
                     encontrar = true;
                 }

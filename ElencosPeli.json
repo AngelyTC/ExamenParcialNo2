@@ -1,21 +1,33 @@
 [
     {
-        "TituloP": "PeterPan",
+        "TituloP": "Marvel",
         
         "Año": "2002",
-        "Genero": "niñps",
-        "Estudio": "disney",
+        "Genero": "accion",
+        "Estudio": "guate",
         "elenco": [
             {
                 "nombreA": "peter",
                 "FechaA": "0001-01-01T00:00:00"
             },
             {
-                "nombreA": "malu",
+                "nombreA": "ironman",
+                "FechaA": "0001-01-01T00:00:00"
+            }
+        ]
+    },
+    {
+        "TituloP": "castillo",
+        "Año": "2004",
+        "Genero": "niños",
+        "Estudio": "gibli",
+        "elenco": [
+            {
+                "nombreA": "goul",
                 "FechaA": "0001-01-01T00:00:00"
             },
             {
-                "nombreA": "hadas",
+                "nombreA": "princesa",
                 "FechaA": "0001-01-01T00:00:00"
             }
         ]
