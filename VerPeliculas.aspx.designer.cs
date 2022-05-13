@@ -24,13 +24,13 @@ namespace ExamenParcialNo2
         protected global::System.Web.UI.WebControls.Label Label1;
 
         /// <summary>
-        /// Control TextBox1.
+        /// Control txtAño.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox txtAño;
 
         /// <summary>
         /// Control btnBuscarP.
@@ -42,12 +42,21 @@ namespace ExamenParcialNo2
         protected global::System.Web.UI.WebControls.Button btnBuscarP;
 
         /// <summary>
-        /// Control Label2.
+        /// Control txtVer.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label2;
+        protected global::System.Web.UI.WebControls.TextBox txtVer;
+
+        /// <summary>
+        /// Control GridView1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridView1;
     }
 }

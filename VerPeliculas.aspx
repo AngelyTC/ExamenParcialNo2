@@ -7,18 +7,16 @@
         <asp:Label ID="Label1" runat="server" Text="Año"></asp:Label>
     </p>
     <p>
-        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
-        <asp:Button ID="btnBuscarP" runat="server" Text="Buscar Peliculas" />
+        <asp:TextBox ID="txtAño" runat="server"></asp:TextBox>
+        <asp:Button ID="btnBuscarP" runat="server" OnClick="btnBuscarP_Click" Text="Buscar Peliculas" />
     </p>
     <p>
-        <asp:Label ID="Label2" runat="server" Text="Titulo"></asp:Label>
+        <asp:TextBox ID="txtVer" runat="server"></asp:TextBox>
     </p>
     <p>
+        <asp:GridView ID="GridView1" runat="server">
+        </asp:GridView>
     </p>
     <p>
-    </p>
-    <p>
-    </p>
-    <p>
-    </p>
+        &nbsp;</p>
 </asp:Content>

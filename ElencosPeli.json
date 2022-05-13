@@ -1,38 +1,38 @@
 [
     {
-        "TituloP": "Marvel",
+        "TituloP": "PeterPan",
         
-        "Año": null,
-        "Genero": "accion",
-        "Estudio": "guate",
+        "Año": "2002",
+        "Genero": "niñps",
+        "Estudio": "disney",
         "elenco": [
             {
-                "nombreA": "angely",
+                "nombreA": "peter",
                 "FechaA": "0001-01-01T00:00:00"
             },
             {
-                "nombreA": "romero",
+                "nombreA": "malu",
                 "FechaA": "0001-01-01T00:00:00"
             },
             {
-                "nombreA": "chano",
+                "nombreA": "hadas",
                 "FechaA": "0001-01-01T00:00:00"
             }
         ]
     },
     {
-        "TituloP": "mickey",
-        "Año": null,
-        "Genero": "niños",
-        "Estudio": "usa",
+        "TituloP": "marvel",
+        "Año": "2004",
+        "Genero": "accion",
+        "Estudio": "comics",
         "elenco": [
             {
-                "nombreA": "mickey",
-                "FechaA": "2022-04-25T00:00:00"
+                "nombreA": "capitanAmerica",
+                "FechaA": "0001-01-01T00:00:00"
             },
             {
-                "nombreA": "mini",
-                "FechaA": "2022-04-25T00:00:00"
+                "nombreA": "spiderman",
+                "FechaA": "0001-01-01T00:00:00"
             }
         ]
     }
