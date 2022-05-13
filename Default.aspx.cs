@@ -19,7 +19,7 @@ namespace ExamenParcialNo2
         }
 
 
-        private void GuardarAlbum()
+        private void GuardarElenco()
         {
             string json = JsonConvert.SerializeObject(peliA);
 
@@ -43,15 +43,16 @@ namespace ExamenParcialNo2
         protected void btnIngresoP_Click(object sender, EventArgs e)
         {
             Pelicula ingresoP = new Pelicula();
-            ingresoP.TituloA = txtNombreAlbum.Text;
-            ingresoP.ArtistaA = txtArtistaAlbum.Text;
-            ingresoP.FechaA = CalendarFecha.SelectedDate;
-            ingresoA.song = CancionA.ToArray().ToList();
+            ingresoP.TituloP= txtTitulo.Text;
+            ingresoP.Año = txtAño.Text;
+            ingresoP.Genero  = txtGenero.Text;
+            ingresoP.Estudio = txtEstudio.Text;
+            ingresoP.elenco = elencos1.ToArray().ToList();
 
-            albumA.Add(ingresoA);
-            GuardarAlbum();
+            peliA.Add(ingresoP);
+            GuardarElenco();
 
-            CancionA.Clear();
+            elencos1.Clear();
         }
     }
 }

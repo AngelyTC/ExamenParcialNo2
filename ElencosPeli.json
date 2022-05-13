@@ -1,1 +1,39 @@
-﻿
+[
+    {
+        "TituloP": "Marvel",
+        
+        "Año": null,
+        "Genero": "accion",
+        "Estudio": "guate",
+        "elenco": [
+            {
+                "nombreA": "angely",
+                "FechaA": "0001-01-01T00:00:00"
+            },
+            {
+                "nombreA": "romero",
+                "FechaA": "0001-01-01T00:00:00"
+            },
+            {
+                "nombreA": "chano",
+                "FechaA": "0001-01-01T00:00:00"
+            }
+        ]
+    },
+    {
+        "TituloP": "mickey",
+        "Año": null,
+        "Genero": "niños",
+        "Estudio": "usa",
+        "elenco": [
+            {
+                "nombreA": "mickey",
+                "FechaA": "2022-04-25T00:00:00"
+            },
+            {
+                "nombreA": "mini",
+                "FechaA": "2022-04-25T00:00:00"
+            }
+        ]
+    }
+]
