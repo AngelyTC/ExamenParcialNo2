@@ -7,27 +7,43 @@
         "Estudio": "guate",
         "elenco": [
             {
-                "nombreA": "peter",
+                "nombreA": "mickey",
                 "FechaA": "0001-01-01T00:00:00"
             },
             {
-                "nombreA": "ironman",
+                "nombreA": "malu",
                 "FechaA": "0001-01-01T00:00:00"
             }
         ]
     },
     {
-        "TituloP": "castillo",
-        "Año": "2004",
+        "TituloP": "gibli",
+        "Año": "2002",
         "Genero": "niños",
-        "Estudio": "gibli",
+        "Estudio": "guate",
         "elenco": [
             {
-                "nombreA": "goul",
+                "nombreA": "malu",
                 "FechaA": "0001-01-01T00:00:00"
             },
             {
-                "nombreA": "princesa",
+                "nombreA": "mmickey",
+                "FechaA": "0001-01-01T00:00:00"
+            }
+        ]
+    },
+    {
+        "TituloP": "peli",
+        "Año": "2003",
+        "Genero": "niños",
+        "Estudio": "guate",
+        "elenco": [
+            {
+                "nombreA": "mmickey",
+                "FechaA": "0001-01-01T00:00:00"
+            },
+            {
+                "nombreA": "angely",
                 "FechaA": "0001-01-01T00:00:00"
             }
         ]

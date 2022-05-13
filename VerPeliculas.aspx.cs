@@ -33,6 +33,8 @@ namespace ExamenParcialNo2
             {
                 Pelicula AlEditado = peliA.Find(c => c.Año == añoP);
 
+                peliA = peliA.FindAll(c => c.Año == añoP);
+
                 if (AlEditado != null)
                 {
                     Pelicula ver = new Pelicula();
