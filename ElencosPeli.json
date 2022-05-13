@@ -19,21 +19,5 @@
                 "FechaA": "0001-01-01T00:00:00"
             }
         ]
-    },
-    {
-        "TituloP": "marvel",
-        "Año": "2004",
-        "Genero": "accion",
-        "Estudio": "comics",
-        "elenco": [
-            {
-                "nombreA": "capitanAmerica",
-                "FechaA": "0001-01-01T00:00:00"
-            },
-            {
-                "nombreA": "spiderman",
-                "FechaA": "0001-01-01T00:00:00"
-            }
-        ]
     }
 ]

@@ -35,7 +35,7 @@ namespace ExamenParcialNo2
 
                 if (AlEditado != null)
                 {
-                   Pelicula ver = new Pelicula();
+                    Pelicula ver = new Pelicula();
                     ver.TituloP = AlEditado.TituloP;
 
                     peliIngreV.Add(ver);
